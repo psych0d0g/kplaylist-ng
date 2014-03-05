@@ -20,8 +20,11 @@ $cfg['jw_enable'] = true;
 
 $bundleconfig = array(
 	'shoutbox' => 1,
-	'ajaxurl' => 'prototype-1.6.0.2.js'
+	'ajaxurl' => 'prototype.js'
 );
 
+$cfg['jw6_url'] = 'jwplayer-5/jwPlayer5/jwplayer.js';
+
+$cfg['jw6_enable'] = true;
 
 ?>
